@@ -6,8 +6,6 @@ body{
 
 header{
     margin-top: 50px;
-
-
 }
 
 h1{
@@ -18,9 +16,21 @@ h1{
 h2{
     font-family: fantasy;    
 }
-p{font-size: 18px;}
+p{
+    font-size: 18px;
+}
 
-img{
-    margin-bottom: 30px;
+footer{
+    margin-top: 60px;
+    margin-bottom: 60px;
 
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 150px;
+}
+
+.img_logo{
+    width: 30px;
 }
